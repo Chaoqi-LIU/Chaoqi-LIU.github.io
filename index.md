@@ -5,7 +5,7 @@ Howdy! I'm Chaoqi LIU, you can call me Nolan! I was born in Jiangsu Province, Ch
 
 ## Contact Me
 My Email: chaoqil2@illinois.edu \
-My [GitHub](https://github.com/Chaoqi-LIU)
+My [GitHub](https://github.com/Chaoqi-LIU) \
 My [LinkedIn](https://www.linkedin.com/in/chaoqi-liu-4a9639211/) \
 My [Instagram](https://www.instagram.com/chaoqi_liu/) \
 My WeChat ID: LCQ040730
