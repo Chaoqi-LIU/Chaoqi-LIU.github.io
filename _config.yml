@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 title: Chaoqi LIU
 description: "I skate to where the puck is going, not where it has been"
 logo: /photo.jpeg
-description: [Activities](https://chaoqi-liu.github.io/activities)
 
 ---
 permalink: activities.html
