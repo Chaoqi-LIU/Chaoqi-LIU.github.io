@@ -13,10 +13,10 @@ My [Instagram](https://www.instagram.com/chaoqi_liu/)
 
 
 ## Education
-**University of Illinois at Urbana-Champaign**  &emsp;&emsp; _August 2022 -- Present_ \
+**University of Illinois at Urbana-Champaign**, _August 2022 -- Present_ \
 &emsp;&emsp;Major: Math and Computer Science
 
-**Nanjing High School of Jiangsu Province**  &emsp;&emsp; _September 2019 -- June 2022_ \
+**Nanjing High School of Jiangsu Province**, _September 2019 -- June 2022_ \
 &emsp;&emsp; Cummulative GPA: 3.91 / 4.00 (unweighted) \
 &emsp;&emsp; CAIE exam results: \
 &emsp;&emsp;&emsp;&emsp; - IGCSE: \
@@ -29,7 +29,7 @@ My [Instagram](https://www.instagram.com/chaoqi_liu/)
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Math -- A+ \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Further Math, Physics, Chemistry, Economics -- IP
 
-**The Experimental School NJHS of JS Province**  &emsp;&emsp; _September 2016 -- June 2019_
+**The Experimental School NJHS of JS Province**, _September 2016 -- June 2019_
 
 
 ## The following is still under moderation
