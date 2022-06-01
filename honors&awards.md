@@ -23,3 +23,7 @@
 **National Speech & Debate Association**, Wuxi Regional Tournament, Outstanding Speaker, *2020*
 
 **National Speech & Debate Association**, Wuxi Regional Tournament, Quarterfinal List, *2020*
+
+**Merit Student**, Nanjing HS of Jiangsu Province, *2020, 2021, 2022*
+
+**WANG Scholarship**, regional, *2017, 2018, 2019*
