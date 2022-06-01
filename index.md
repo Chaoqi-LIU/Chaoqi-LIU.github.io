@@ -1,5 +1,5 @@
 ## About Me
-Howdy! I'm Chaoqi LIU, you can call me Nolan! I was born in Jiangsu Province, China🇳. \
+Howdy! I'm Chaoqi LIU, you can call me Nolan! I was born in Jiangsu Province, China. \
 ENTJ-A \
 26' B.S Math and Computer Science @ UIUC
 
