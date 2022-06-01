@@ -1,9 +1,11 @@
 ## Education
 **University of Illinois at Urbana-Champaign**, _August 2022 -- Present_
 
+&emsp;&emsp; GPA: N/A
+
 &emsp;&emsp; Major: Math and Computer Science
 
-&emsp;&emsp; Courses:
+&emsp;&emsp; Courses and results
 
 &emsp;&emsp;&emsp;&emsp; - 2022 Fall \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; N/A
