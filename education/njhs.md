@@ -16,4 +16,4 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Math -- A+ \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Further Math, Physics, Chemistry, Economics -- IP
 
-[back](https://chaoqi-liu.github.io/education/overall)
+[back](https://chaoqi-liu.github.io/education/overview)
