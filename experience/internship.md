@@ -1,1 +1,1 @@
-Currently No Internship
+No internship experience yet
