@@ -4,3 +4,14 @@ description: "I skate to where the puck is going, not where it has been"
 ---
 permalink: activities.html
 ---
+
+navigation:
+- text: Homepage
+  internal: true
+  url: ./
+- text: Activities
+  internal: true
+  url: ./activites
+- text: test
+  internal: true
+  url: https://chaoqi-liu.github.io/activites
