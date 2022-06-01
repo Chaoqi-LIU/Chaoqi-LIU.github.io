@@ -6,7 +6,6 @@ remote_theme: BDHU/minimalist
 color-scheme: auto
 
 sidebar:
-  - name: Navigation bar
   - name:  - Homepage
     link: https://chaoqi-liu.github.io
   - name:  - Education
