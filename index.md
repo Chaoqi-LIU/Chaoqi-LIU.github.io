@@ -2,18 +2,23 @@
 
 ### About Me
 Howdy! I'm Chaoqi LIU, you can call me Nolan! I was born in Jiangsu Province, China.
+
 ENTJ-A
+
 26' B.S Math and Computer Science @ UIUC
 
 ### Contact Me
 Email: chaoqil2@illinois.edu
 
 ### Education
-University of Illinois at Urbana-Champaign        August 2022 -- Present
+University of Illinois at Urbana-Champaign          August 2022 -- Present
+
   Major: Math and Computer Science
 
-Nanjing High School of Jiangsu Province, A-Level Centre       September 2019 -- June 2022
+Nanjing High School of Jiangsu Province, A-Level Centre          September 2019 -- June 2022
+  
   Cummulative GPA: 3.91 / 4.00 (unweighted)
+  
   CAIE exam results:
     - IGCSE
       - Chinese: A+
@@ -30,7 +35,7 @@ Nanjing High School of Jiangsu Province, A-Level Centre       September 2019 -- 
       - AL Economics: IP
       - AS Global Perspectives and Research: IP
   
-The Experimental School of Nanjing High School of Jiangsu Province        September 2016 -- June 2019
+The Experimental School of Nanjing High School of Jiangsu Province          September 2016 -- June 2019
 
 
 
