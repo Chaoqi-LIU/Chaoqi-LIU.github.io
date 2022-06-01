@@ -6,13 +6,12 @@ remote_theme: BDHU/minimalist
 color-scheme: auto
 
 sidebar:
-  - name: Navigation bar
-  - name: -Homepage
+  - name: -> Homepage
     link: https://chaoqi-liu.github.io
-  - name: -Education
+  - name: -> Education
     link: https://chaoqi-liu.github.io/education/overview
-  - name: -Experience
+  - name: -> Experience
     link: https://chaoqi-liu.github.io/experience/overview
-  - name: -Honors & Awards
+  - name: -> Honors & Awards
     link: https://chaoqi-liu.github.io/honors&awards
 
