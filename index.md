@@ -7,9 +7,8 @@ ENTJ-A \
 
 ## Contact Me
 Email: chaoqil2@illinois.edu \
-LinkedIn: https://www.linkedin.com/in/chaoqi-liu-4a9639211/ \
-[LinkedIn](https://www.linkedin.com/in/chaoqi-liu-4a9639211/) \
-[Instagram](https://www.instagram.com/chaoqi_liu/)
+My [LinkedIn](https://www.linkedin.com/in/chaoqi-liu-4a9639211/) \
+My [Instagram](https://www.instagram.com/chaoqi_liu/)
 
 
 
