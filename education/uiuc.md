@@ -17,4 +17,4 @@
 &emsp;&emsp;&emsp;&emsp; - 2024 Spring \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; N/A
 
-[back](https://chaoqi-liu.github.io/education/overall)
+[back](https://chaoqi-liu.github.io/education/overview)
