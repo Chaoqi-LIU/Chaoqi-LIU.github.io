@@ -11,31 +11,31 @@ ENTJ-A
 Email: chaoqil2@illinois.edu
 
 ### Education
-University of Illinois at Urbana-Champaign          August 2022 -- Present
+University of Illinois at Urbana-Champaign          &emsp;&emsp;August 2022 -- Present
 
-  Major: Math and Computer Science
+  &emsp;Major: Math and Computer Science
 
-Nanjing High School of Jiangsu Province, A-Level Centre          September 2019 -- June 2022
+Nanjing High School of Jiangsu Province, A-Level Centre          &emsp;&emsp;September 2019 -- June 2022
   
-  Cummulative GPA: 3.91 / 4.00 (unweighted)
+  &emsp;Cummulative GPA: 3.91 / 4.00 (unweighted)
   
-  CAIE exam results:
-    - IGCSE
-      - Chinese: A+
-      - Math: A+
-      - English as 2nd language: A
-      - Physics: A+
-      - Chemistry: A+
-      - English literature: C
-    - AS & ALevel
-      - AL Math: A+
-      - AL Further Math: IP
-      - AL Physics: IP
-      - AL Chemistry: IP
-      - AL Economics: IP
-      - AS Global Perspectives and Research: IP
+  &emsp;CAIE exam results:
+    &emsp;&emsp;- IGCSE
+      &emsp;&emsp;&emsp;- Chinese: A+
+      &emsp;&emsp;&emsp;- Math: A+
+      &emsp;&emsp;&emsp;- English as 2nd language: A
+      &emsp;&emsp;&emsp;- Physics: A+
+      &emsp;&emsp;&emsp;- Chemistry: A+
+      &emsp;&emsp;&emsp;- English literature: C
+    &emsp;&emsp;- AS & ALevel
+      &emsp;&emsp;&emsp;- AL Math: A+
+      &emsp;&emsp;&emsp;- AL Further Math: IP
+      &emsp;&emsp;&emsp;- AL Physics: IP
+      &emsp;&emsp;&emsp;- AL Chemistry: IP
+      &emsp;&emsp;&emsp;- AL Economics: IP
+      &emsp;&emsp;&emsp;- AS Global Perspectives and Research: IP
   
-The Experimental School of Nanjing High School of Jiangsu Province          September 2016 -- June 2019
+The Experimental School of Nanjing High School of Jiangsu Province          &emsp;&emsp;September 2016 -- June 2019
 
 
 
