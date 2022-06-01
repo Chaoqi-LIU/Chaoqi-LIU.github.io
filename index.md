@@ -1,13 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to My Homepage
 
-You can use the [editor on GitHub](https://github.com/Chaoqi-LIU/Chaoqi-LIU.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+Howdy! I'm Chaoqi LIU, you can call me Nolan! I was born in Jiangsu Province, China.
+ENTJ-A
+26' B.S Math and Computer Science @ UIUC
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact Me
+Email: chaoqil2@illinois.edu
 
-### Markdown
+### Education
+University of Illinois at Urbana-Champaign        August 2022 -- Present
+  Major: Math and Computer Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nanjing High School of Jiangsu Province, A-Level Centre       September 2019 -- June 2022
+  Cummulative GPA: 3.91 / 4.00 (unweighted)
+  CAIE exam results:
+    - IGCSE
+      - Chinese: A+
+      - Math: A+
+      - English as 2nd language: A
+      - Physics: A+
+      - Chemistry: A+
+      - English literature: C
+    - AS & ALevel
+      - AL Math: A+
+      - AL Further Math: IP
+      - AL Physics: IP
+      - AL Chemistry: IP
+      - AL Economics: IP
+      - AS Global Perspectives and Research: IP
+  
+The Experimental School of Nanjing High School of Jiangsu Province        September 2016 -- June 2019
 
+
+
+### The following is still under moderation
 ```markdown
 Syntax highlighted code block
 
@@ -23,7 +50,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](www.bing.com) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
