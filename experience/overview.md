@@ -1,4 +1,4 @@
-[Projects](https://chaoqi-liu.github.io/experience/competitions)
+[Projects](https://chaoqi-liu.github.io/experience/projects)
 
 [Competitions](https://chaoqi-liu.github.io/experience/competitions)
 
