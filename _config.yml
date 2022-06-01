@@ -6,6 +6,8 @@ remote_theme: BDHU/minimalist
 color-scheme: auto
 
 sidebar:
+  - name: Homepage
+    link: https://chaoqi-liu.github.io
   - name: Education
     link: https://chaoqi-liu.github.io/education/overall
   - name: Experience
