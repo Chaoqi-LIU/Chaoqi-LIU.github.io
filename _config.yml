@@ -4,7 +4,9 @@ title: Chaoqi LIU
 description: "I skate to where the puck is going, not where it has been"
 logo: /photos/logo.jpeg
 
-favico: true
+favicon: true
+
+color-scheme: auto
 
 sidebar:
   - name: GitHub
