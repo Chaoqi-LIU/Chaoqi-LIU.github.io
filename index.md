@@ -1,6 +1,7 @@
 ## About Me
-Howdy! I'm Chaoqi LIU, you can call me Nolan! I was born in Jiangsu Province, China. \
-ENTJ-A \
+Howdy! I'm Chaoqi LIU, you can call me Nolan! \
+I was born in Jiangsu Province, China \
+My MBTI is ENTJ-A \
 26' B.S Math and Computer Science @ UIUC
 
 
