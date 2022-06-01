@@ -15,5 +15,5 @@ My WeChat ID: LCQ040730
 
 
 ## Languages
-**Chinese**, native proficiency \
-**English**, professional working proficiency
+Chinese, native proficiency \
+English, professional working proficiency
