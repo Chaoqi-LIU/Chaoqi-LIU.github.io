@@ -6,15 +6,9 @@ remote_theme: BDHU/minimalist
 color-scheme: auto
 
 sidebar:
-  - name: GitHub
-    link: https://github.com/Chaoqi-LIU
-  - name: LinkedIn
-    link: https://www.linkedin.com/in/chaoqi-liu-4a9639211/
-  - name: Instagram
-    link: https://www.instagram.com/chaoqi_liu/
-  - name: Activities
-    link: https://chaoqi-liu.github.io/activities
+  - name: Education
+    link: https://chaoqi-liu.github.io/education/overall
+  - name: Experience
+    link: https://chaoqi-liu.github.io/experience/competitions
 
----
-permalink: activities.html
----
+# permalink: activities.html
