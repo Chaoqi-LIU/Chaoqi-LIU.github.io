@@ -1,8 +1,5 @@
 ## About Me
-Howdy! I'm Chaoqi LIU, you can call me Nolan! \
-I was born in Jiangsu Province, China \
-My MBTI is ENTJ-A \
-26' B.S Math and Computer Science @ UIUC
+Howdy! I'm Chaoqi LIU, you can call me Nolan! I was born in Jiangsu Province, China. Currently, I'm a Math and Computer Science student at University of Illinois at Urbana-Champaign. I am a techno-optimist with a great passion for technology and science. I aspire to become a PhD in coming future. My current research interets are robotics, security, biocomputing.
 
 
 
