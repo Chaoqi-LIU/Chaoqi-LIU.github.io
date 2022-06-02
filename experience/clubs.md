@@ -6,4 +6,4 @@
 
 **NJHS CS Club**, president, *September 2019 - June 2021*
 
-[back](https://chaoqi-liu.github.io/experience/overview)
+[back](https://chaoqi-liu.github.io/experience)
