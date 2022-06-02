@@ -1,7 +1,7 @@
 ## Education
 **University of Illinois at Urbana-Champaign**, _August 2022 -- Present_ \
 &emsp;&emsp; GPA: N/A \
-&emsp;&emsp; Major: Math and Computer Science \
+&emsp;&emsp; Program(s): Math and Computer Science \
 &emsp;&emsp; [Courses and results](https://chaoqi-liu.github.io/education/uiuc)
 
 **Nanjing High School of Jiangsu Province**, _September 2019 -- June 2022_ \
