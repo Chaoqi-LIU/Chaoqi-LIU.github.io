@@ -13,4 +13,4 @@
 &emsp;&emsp; - 2023 Spring \
 &emsp;&emsp;&emsp; N/A
 
-[back](https://chaoqi-liu.github.io/education/overview)
+[back](https://chaoqi-liu.github.io/education)
