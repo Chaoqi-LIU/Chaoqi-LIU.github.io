@@ -1,3 +1,5 @@
+## Honors and Awards
+
 **American Computer Science League**, National Team Gold, *2021*
 
 **American Computer Science League**, Individual Top Score, *2021*
