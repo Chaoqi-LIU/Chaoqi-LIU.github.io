@@ -8,7 +8,7 @@
 &emsp; Courses and results
 
 &emsp;&emsp; - 2022 Fall \
-&emsp;&emsp;&emsp;&emsp; N/A
+&emsp;&emsp;&emsp; N/A
 
 &emsp;&emsp; - 2023 Spring \
 &emsp;&emsp;&emsp; N/A
