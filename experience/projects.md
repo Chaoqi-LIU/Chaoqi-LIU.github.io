@@ -4,19 +4,11 @@
 ---
 
 
-## Pre-university projects
-
-
----
-
-
 ### Decision Making Model for Business Simulation Contest
 *February 2022*
 
-**Description**\
-\
-\
-hi
+**Description** \
+Build a model to make decisions in budgeting and resource distribution with mathematical computation. This model can output the optimal allocation of resources and its performance has been proven to be awesome.
 
 
 ---
@@ -27,6 +19,7 @@ hi
 
 **Abstract** \
 Natural images are virtually surrounded by low-density misclassified regions that can be efficiently discovered by gradient-guided search — enabling the generation of adversarial images — images that an attacker has intentionally designed to cause machine learning models to make mistakes. In this paper, I propose a simple change to the existing additive random noise detection method — a test time method to distinguish adversarial images by testing the robustness of input images. I propose the Ensemble Method of additive random noise detection method where I demonstrate that by testing with different combinations of noise radius (variance) of zero-mean Gaussian noise, there is an increase in detection rate of adversarial images (true positive rate increases when false positive rate is fixed).
+
 
 
 ---
