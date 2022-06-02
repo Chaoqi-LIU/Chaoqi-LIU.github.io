@@ -1,3 +1,5 @@
+## Education
+
 **Nanjing High School of Jiangsu Province**, _September 2019 -- June 2022_
 
 &emsp;&emsp; Cummulative GPA: 3.91 / 4.00 (unweighted)
