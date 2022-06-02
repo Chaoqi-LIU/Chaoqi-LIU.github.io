@@ -8,7 +8,7 @@
 *February 2022*
 
 **Description** \
-Build a model to make decisions in budgeting and resource distribution with mathematical computation. This model can output the optimal allocation of resources and its performance has been proven to be awesome.
+Built a model to make decisions in budgeting and resource distribution with mathematical computation. This model can output the optimal allocation of resources and its performance has been proven to be awesome.
 
 
 ---
