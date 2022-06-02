@@ -3,7 +3,7 @@
 
 &emsp; GPA: N/A
 
-&emsp; Major: Math and Computer Science
+&emsp; Program(s): Math and Computer Science
 
 &emsp; Courses and results
 
