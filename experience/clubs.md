@@ -1,3 +1,5 @@
+# Clubs
+
 **NJ Debate Club**, active member, *September 2019 - June 2021*
 
 **Elite-Academy**, Chief Mindset Officer, *April 2020 - June 2021*
