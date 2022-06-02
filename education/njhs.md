@@ -25,4 +25,4 @@
 &emsp;&emsp;&emsp; Chemistry -- IP \
 &emsp;&emsp;&emsp; Economics -- IP
 
-[back](https://chaoqi-liu.github.io/education/overview)
+[back](https://chaoqi-liu.github.io/education)
