@@ -5,12 +5,12 @@ remote_theme: BDHU/minimalist
 color-scheme: auto
 
 sidebar:
-  - name: -> Homepage
+  - name: -> Hômèpägé
     link: https://chaoqi-liu.github.io
-  - name: -> Education
+  - name: -> Èdūçãtįøñ
     link: https://chaoqi-liu.github.io/education/overview
-  - name: -> Experience
+  - name: -> Èxpèrîéñçē
     link: https://chaoqi-liu.github.io/experience/overview
-  - name: -> Honors & Awards
+  - name: -> Hôñörš & Ãwàrdś
     link: https://chaoqi-liu.github.io/honors&awards
 
