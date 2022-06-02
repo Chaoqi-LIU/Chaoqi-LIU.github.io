@@ -1,6 +1,15 @@
 # Projects
 
-## Refining the Additive Random Noise Detection Method for Adversarial Examples   
+## Pre-university projects
+
+### The Social Dilemma workshop
+*November 2020*
+
+**Description** \
+I watched the Netflix documentary *The Social Dilemma* and was disappointed to find how big companies use personal data at will to profit at the expense of people’s interests. The spread of body shame, youth depression, and mental illness were by-products. This truth toppled my belief, and I felt obligated to warn others of these outcomes. Thus, together with my friend, I initiated a workshop for parents and students to explain the social dilemma in the digital age. As I continued to express my concerns, I could see shocking bewilderment, denial, and even anger in the audience’s faces. The one-hour workshop might not change much, but what I could accomplish was to plant seeds in their minds.
+
+
+### Refining the Additive Random Noise Detection Method for Adversarial Examples   
 *December 2020 -- May 2021*
 
 **Abstract** \
