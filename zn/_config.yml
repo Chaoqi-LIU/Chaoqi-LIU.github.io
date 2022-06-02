@@ -5,11 +5,11 @@ remote_theme: BDHU/minimalist
 color-scheme: auto
 
 sidebar:
-  - name: -> 主页
+  - name: 主页
     link: https://chaoqi-liu.github.io
-  - name: -> 教育
+  - name: 教育
     link: https://chaoqi-liu.github.io/education/overview
-  - name: -> 经历
+  - name: 经历
     link: https://chaoqi-liu.github.io/experience/overview
-  - name: -> 荣誉及奖项
+  - name: 荣誉及奖项
     link: https://chaoqi-liu.github.io/honors&awards
