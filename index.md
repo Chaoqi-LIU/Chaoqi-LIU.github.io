@@ -6,7 +6,9 @@ Howdy! I'm Chaoqi LIU, 刘晁企, you can call me Nolan! I was born in Jiangsu P
 
  
 ## Contact Me
-My Email(s): chaoqil2@illinois.edu, liuchaoqi730@gmail.com \
+My Email(s): chaoqil2[at]illinois.edu \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+liuchaoqi730[at]gmail.com \
 My [GitHub](https://github.com/Chaoqi-LIU) \
 My [LinkedIn](https://www.linkedin.com/in/chaoqi-liu-4a9639211/) \
 My [Instagram](https://www.instagram.com/chaoqi_liu/)
