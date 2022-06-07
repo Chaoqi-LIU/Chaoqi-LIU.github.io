@@ -8,9 +8,9 @@
 &emsp; Courses and results
 
 &emsp;&emsp; - 2022 Fall \
-&emsp;&emsp;&emsp; N/A
+&emsp;&emsp;&emsp; MATH241 Calculus II -- IP \
+&emsp;&emsp;&emsp; CS128 Intro to CS II -- IP \
+&emsp;&emsp;&emsp; ECE101 Exploring Digital Info Tech -- IP
 
-&emsp;&emsp; - 2023 Spring \
-&emsp;&emsp;&emsp; N/A
 
 [back](https://chaoqi-liu.github.io/education)
